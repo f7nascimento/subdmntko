@@ -1,0 +1,2 @@
+# subdmntko
+testing subdomain takeover
